@@ -1,2 +1,2 @@
 # Portfolio
-This is a Portfolio of Solomon, Ibifubara Bernard a.k.a "ibihack" hosted on https://ibihack.github.io/Portfolio/ please feel free to email me after knowing who I am, thank you!
+I, Solomon Ibifubara Bernard, also known as ibihack, welcome you to my online portfolio. You can explore my work and accomplishments at https://ibihack.github.io/Portfolio/. After getting to know more about me, feel free to reach out via email. Thank you for your interest!
