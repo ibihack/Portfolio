@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #0000FF;
-    color: blue;
+    color: #FFFFFF; /*white*/
     padding: 20px 0;
     text-align: center;
 }
@@ -32,7 +32,7 @@ img {
 
 footer {
     background-color: #0000FF;
-    color: blue;
+    color: #FFFFFF; /*white*/
     text-align: center;
     padding: 10px;
 }
